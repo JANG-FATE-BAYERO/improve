@@ -1,0 +1,23 @@
+nav {
+    color: white;
+    background-color: maroon;
+    margin-top: 2px solid grey;
+}
+h1{
+    text-align: center;
+}
+.nav{
+    width: 80px;
+    background-color: palevioletred;
+}
+ul{
+    
+}
+li{
+    list-style-type: none;
+    float: left;
+    
+}
+a{
+   
+}

@@ -1,0 +1,27 @@
+body{
+    grid-template-columns: auto;
+}
+nav {
+    color: white;
+    background-color: maroon;
+    margin-top: 2px solid grey;
+}
+h1{
+    text-align: center;
+}
+.nav-item{
+    height: 80px;
+    text-align: center;
+    
+}
+ul{
+    
+}
+li{
+    list-style-type: none;
+    float: left;
+    text-decoration: none;
+}
+a{
+   
+}
